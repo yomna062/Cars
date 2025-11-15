@@ -1,5 +1,5 @@
 import React from 'react';
-import RentCar from '../../Assets/RentCar.png'; 
+import RentCar from '../../assets/RentCar.png'
 
 const RentalItem = ({ icon, heading, description }) => {
   return (
